@@ -14,4 +14,3 @@ Other Open Source Libraries
 ---------------------------
   - [MOEA Framework](http://www.moeaframework.org) - A Free and Open Source Java Framework for Multiobjective Optimization
   - [DGantt](http://sourceforge.net/projects/dgantt/) - A simple yet powerful Gantt chart library for Java 1.6 and later
-  - [SVN Backups](https://github.com/dhadka/SVN-Backups) - A Python script for creating full or incremental SVN dumps and uploading the result to Dropbox
