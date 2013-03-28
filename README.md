@@ -1,5 +1,5 @@
-SVN Backups
-===========
+SVN Backups to Dropbox
+======================
 
 A Python script for creating full or incremental SVN dumps and uploading the result to Dropbox.  This combines the [Apache SVN backup script](http://svn.apache.org/repos/asf/subversion/trunk/tools/server-side/svn-backup-dumps.py) with the [Python Dropbox Uploader](https://github.com/jncraton/PythonDropboxUploader).  For example, the following command will generate an incremental dump (`-i`), gzip the result (`-z`), and securely upload the resulting backup to Dropbox (`-t dropbox::username:password:/folder`). 
 
