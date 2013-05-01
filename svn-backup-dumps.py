@@ -21,7 +21,8 @@
 #    under the License.
 # ====================================================================
 #
-# Modified 06 Oct 2011 to include Dropbox support.
+# Modified by David Hadka on 06 Oct 2011 to include Dropbox support.
+# Modifications are released under the Apache License, Version 2.0.
 # Original file from: http://svn.apache.org/repos/asf/subversion/trunk/
 #
 # This script creates dump files from a subversion repository.
